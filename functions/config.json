@@ -1,0 +1,111 @@
+{
+	"app_name": "Vaidehi Cab",
+    "app_description": "Vaidehi Cab",
+    "app_identifier": "com.vaidehicabapp.vr",
+	"ios_app_version": "1.0.1",
+	"android_app_version": "4",
+	"firebaseProjectId": "vaidehi-cab-vr",
+	"googleApiKeys": {
+		"ios": "AIzaSyCedX4cR5zeW1aKwS4yy5jnor4kY8ENBeU",
+        "android": "AIzaSyCedX4cR5zeW1aKwS4yy5jnor4kY8ENBeU",
+        "web": "AIzaSyCedX4cR5zeW1aKwS4yy5jnor4kY8ENBeU",
+        "server": "AIzaSyCedX4cR5zeW1aKwS4yy5jnor4kY8ENBeU"
+	},
+	"expo_owner": "vickyrajvr",
+	"expo_slug": "vaidehi-cab",
+	"expo_project_id": "bb778541-7dbc-4fb1-bdda-a73392e9e74c",
+	"admin_email": "admin@vaidehicab.com",
+	"purchase_code": "3b461555-945f-48c3-ae68-5f5981e9f4ea",
+	"paymentMethods": {
+		"braintree": {
+			"active": false,
+			"testing": true,
+			"merchantId": "XXXXXXXXXXXXXXX",
+			"publicKey": "XXXXXXXXXXXXXXX",
+			"privateKey": "XXXXXXXXXXXXXXX"
+		},
+		"culqi": {
+			"active": false,
+			"PUBLIC_KEY": "XXXXXXXXXXXXXXX",
+			"SECURE_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"flutterwave": {
+			"active": false,
+			"FLUTTERWAVE_PUBLIC_KEY": "XXXXXXXXXXXXXXX",
+			"FLUTTERWAVE_SECRET_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"liqpay": {
+			"active": false,
+			"public_key": "XXXXXXXXXXXXXXX",
+			"private_key": "XXXXXXXXXXXXXXX"
+		},
+		"mercadopago": {
+			"active": false,
+			"public_key": "XXXXXXXXXXXXXXX",
+			"access_token": "XXXXXXXXXXXXXXX"
+		},
+		"payfast": {
+			"active": false,
+			"testingMode": true,
+			"PAYFAST_MEWRCHANT_ID": "XXXXXXXXXXXXXXX",
+			"PAYFAST_MERCHANT_KEY": "XXXXXXXXXXXXXXX",
+			"passPhrase": null
+		},
+		"paypal": {
+			"active": false,
+			"testing": true,
+			"paypal_client_id": "XXXXXXXXXXXXXXX",
+			"paypal_secret": "XXXXXXXXXXXXXXX"
+		},
+		"paystack": {
+			"active": false,
+			"PAYSTACK_PUBLIC_KEY": "XXXXXXXXXXXXXXX",
+			"PAYSTACK_SECRET_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"paytm": {
+			"active": false,
+			"testing": true,
+			"PAYTM_MEWRCHANT_ID": "XXXXXXXXXXXXXXX",
+			"PAYTM_MERCHANT_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"payulatam": {
+			"active": false,
+			"testing": true,
+			"merchantId": 111111,
+			"apiKey": "XXXXXXXXXXXXXXX",
+			"accountId": 111111
+		},
+		"securepay": {
+			"active": false,
+			"testing": true,
+			"MERCHANT_CODE": "XXXXXXXXXXXXXXX",
+			"TXN_PASSWORD": "XXXXXXXXXXXXXXX"
+		},
+		"stripe": {
+			"active": false,
+			"stripe_private_key": "XXXXXXXXXXXXXXX",
+			"stripe_public_key": "XXXXXXXXXXXXXXX"
+		},
+		"squareup": {
+			"active": false,
+			"testing": true,
+			"APPLICATION_ID": "XXXXXXXXXXXXXXX",
+			"LOCATION_ID": "XXXXXXXXXXXXXXX",
+			"ACCESS_TOKEN": "XXXXXXXXXXXXXXX"
+		},
+		"wipay": {
+			"active": false,
+			"testing": true,
+			"ACCOUNT_NO": "XXXXXXXXXXXXXXX",
+			"API_KEY": "XXXXXXXXXXXXXXX"
+		},
+		"razorpay": {
+			"active": false,
+			"KEY_ID" : "XXXXXXXXXXXXXXX",
+			"KEY_SECRET" :"XXXXXXXXXXXXXXX"
+		},
+		"test": {
+			"active": true
+		}
+	}
+}

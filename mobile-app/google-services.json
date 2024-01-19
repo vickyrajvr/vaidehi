@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24918290511",
+    "firebase_url": "https://vaidehi-cab-vr-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vaidehi-cab-vr",
+    "storage_bucket": "vaidehi-cab-vr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24918290511:android:a68f5a20071f253a6e3a3a",
+        "android_client_info": {
+          "package_name": "com.vaidehicabapp.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24918290511-v5qce6cgr3eh1num5gkcleq8s0sbbsu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKFGnfFaz6cjp_azcFO7CQZFsvJkBaP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24918290511-v5qce6cgr3eh1num5gkcleq8s0sbbsu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24918290511-9rukuug30k2s862opnmflbf0qu7l84a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vaidehicabdriver.vr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
